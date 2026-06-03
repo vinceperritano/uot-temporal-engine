@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+uot_runs.db
+*.sqlite
+*.db
+.git/
+.DS_Store
